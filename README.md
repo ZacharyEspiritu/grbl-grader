@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img src="https://raw.githubusercontent.com/ZacharyEspiritu/grbl-grader/master/.assets/logo.png?token=ADDLA7QKVLEFOZOXPIASWPS5SSW76">
+  <img src="https://github.com/ZacharyEspiritu/grbl-grader/raw/master/.assets/logo.png">
 </h3>
 
 A suite of grading infrastructure scripts written in Google Apps Script designed to allow for modular, non-traditional grading systems. At the heart of the system is GRBL ("gerbil"), the **g**rade **r**eport **b**uilding **l**anguage, which allows for the distribution of extremely customizable (and stylish) feedback reports.
